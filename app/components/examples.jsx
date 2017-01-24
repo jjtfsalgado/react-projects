@@ -12,7 +12,7 @@ var Examples = React.createClass({
             <Link to='/?location=Guimarães'>Guimarães, Portugal</Link>
           </li>
           <li>
-            <Link to='/?location=Rio'>Rio, Brazil</Link>
+            <Link to='/?location=Rio de Janeiro'>Rio, Brazil</Link>
           </li>
         </ol>
       </div>
